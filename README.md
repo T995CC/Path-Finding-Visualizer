@@ -1,6 +1,6 @@
 # Explore the efficiency of the A* pathfinding algorithm
 ### Overview
-This project offers a visual representation of the A* pathfinding algorithm, demonstrating its effectiveness in finding the shortest path between nodes in a graph. Developed using Python and Pygame, the visualizer provides an interactive environment to explore and understand the A* algorithm.
+This project offers a visual representation of the A* pathfinding algorithm, demonstrating its effectiveness in finding the shortest path between nodes in a grid. Developed using Python and Pygame, the visualizer provides an interactive environment to explore and understand the A* algorithm.
 
 ### Key Features:
 **A\* Pathfinding Algorithm:**
