@@ -22,13 +22,13 @@ This project offers a visual representation of the A* pathfinding algorithm, dem
 > Immerse yourself in an appealing environment featuring minimalistic colorful graphics and intuitive controls, enhancing user engagement.
 
 ## Usage:
-1. Download:
+1. **Download:**
    - Download the `PathFindingVisualizer.zip` file.
 
-2. Extract Files:
+2. **Extract Files:**
    - Locate the downloaded file and extract its contents to a desired location on your computer.
 
-3. Run the Application:
+3. **Run the Application:**
    - Navigate to the extracted folder named `PathFindingVisualizer`.
    - Open the `dist` directory within the folder.
    - Run `PathFindingVisualizer.exe` to launch the application.
